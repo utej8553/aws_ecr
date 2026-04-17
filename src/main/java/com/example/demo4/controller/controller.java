@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class controller {
     @GetMapping("/home")
     String func1(){
-        return "You have just visited /home";
+        return "You have just visited /home6767";
     }
 
     @GetMapping("/end")
