@@ -16,6 +16,6 @@ public class controller {
 
     @GetMapping("/end")
     String func2(){
-        return "You have just visited /end";
+        return "You have just visited /endepriyet";
     }
 }
